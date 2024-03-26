@@ -10,7 +10,7 @@ import java.util.Set;
  * оставшихся чисел по модулю не будет превышать 1, то есть после удаления ни одно число не должно отличаться от
  * какого-либо другого более чем на 1.
  */
-public class TaskC {
+public class TaskD {
     private static final String INPUT_FILE_PATH = "src/main/resources/input.txt";
 
     private static final String OUTPUT_FILE_PATH = "src/main/resources/output.txt";
