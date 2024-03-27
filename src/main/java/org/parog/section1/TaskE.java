@@ -1,4 +1,4 @@
-package org.parog.session1;
+package org.parog.section1;
 
 import java.io.*;
 import java.util.Arrays;
