@@ -24,7 +24,7 @@ public class TaskC {
                     .mapToInt(Integer::parseInt)
                     .toArray();
 
-            String result = String.valueOf(getMinimalRope(ropes));
+            String result = String.valueOf(getMinimalRopeRazbor(ropes));
 
             writer.write(result);
         }
@@ -61,5 +61,23 @@ public class TaskC {
         }
 
         return (maxRope - withoutMaxRope > 0) ? (maxRope - withoutMaxRope) : (maxRope + withoutMaxRope);
+    }
+
+    /**
+     * Вариация решения задачи в Разборе. Сначала найдем сумму длин веревочек и максимальную веревочку.
+     * Если удвоенная максимальная больше суммы всех веревочек, то была изъята маленькая. Иначе была изъята половина -
+     * равная сумме всех.
+     *
+     * @param ropes длины оставшихся веревочек
+     * @return наименьшая длина, которую может иметь верёвочка, взятая Машей
+     */
+    public static int getMinimalRopeRazbor(int[] ropes) {
+        int sumOfRopes = Arrays.stream(ropes)
+                .sum();
+        int maxRope = Arrays.stream(ropes)
+                .max()
+                .getAsInt();
+
+        return (maxRope * 2 > sumOfRopes) ? (maxRope * 2 - sumOfRopes) : sumOfRopes;
     }
 }

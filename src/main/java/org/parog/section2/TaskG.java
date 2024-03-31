@@ -49,7 +49,7 @@ public class TaskG {
             for (int length : segmentLengths) {
                 System.out.print(length + " ");
             }
-            System.out.println(); // Для лучшей читаемости вывода
+            System.out.println();
         }
 
         scanner.close();
