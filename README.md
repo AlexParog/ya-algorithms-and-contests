@@ -49,4 +49,4 @@
 
 ---
 
-- [Контест ШБР №1]()
+- [Контест ШБР №1](https://github.com/AlexParog/yandex-algorithms-5-0/tree/main/src/main/java/org/parog/contests/contest1_SumBackSchool)
