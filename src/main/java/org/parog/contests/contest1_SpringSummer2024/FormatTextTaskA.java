@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
  * - once upon a time, in a land far far away lived a princess , whose beauty was yet unmatched
  * - a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,yandex
  */
-public class TaskA {
+public class FormatTextTaskA {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String text = scanner.nextLine();
