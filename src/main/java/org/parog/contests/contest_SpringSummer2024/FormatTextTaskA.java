@@ -1,4 +1,4 @@
-package org.parog.contests.contest1_SpringSummer2024;
+package org.parog.contests.contest_SpringSummer2024;
 
 import java.util.*;
 import java.util.regex.Matcher;
