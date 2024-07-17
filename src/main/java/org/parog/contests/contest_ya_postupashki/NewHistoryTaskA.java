@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * А. Новая история
  */
-public class TaskA {
+public class NewHistoryTaskA {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int year1 = scanner.nextInt();
