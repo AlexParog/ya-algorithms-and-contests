@@ -1,4 +1,4 @@
-package org.parog.section3;
+package org.parog.algorithm_training_5.section3;
 
 import java.io.*;
 import java.util.HashSet;

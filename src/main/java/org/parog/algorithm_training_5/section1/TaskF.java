@@ -1,4 +1,4 @@
-package org.parog.section1;
+package org.parog.algorithm_training_5.section1;
 
 import java.io.*;
 import java.util.Arrays;

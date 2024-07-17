@@ -1,4 +1,4 @@
-package org.parog.section2;
+package org.parog.algorithm_training_5.section2;
 
 import java.util.Scanner;
 

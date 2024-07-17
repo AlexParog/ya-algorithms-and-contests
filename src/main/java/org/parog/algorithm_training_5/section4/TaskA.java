@@ -1,4 +1,4 @@
-package org.parog.section4;
+package org.parog.algorithm_training_5.section4;
 
 import java.util.Arrays;
 import java.util.Scanner;
