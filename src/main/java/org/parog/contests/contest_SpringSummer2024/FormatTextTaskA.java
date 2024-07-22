@@ -6,10 +6,6 @@ import java.util.regex.Pattern;
 
 /**
  * А. Форматирование текста
- * <p>
- * Открытые тест-кейсы с контеста:
- * - once upon a time, in a land far far away lived a princess , whose beauty was yet unmatched
- * - a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,yandex
  */
 public class FormatTextTaskA {
     public static void main(String[] args) {
