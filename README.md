@@ -50,8 +50,8 @@
 ---
 
 - [Контест ШБР №1 2024](https://github.com/AlexParog/ya-algorithms-and-contests/tree/main/src/main/java/org/parog/contests/contest1_SumBackSchool)
-- [Контест ШБР №2 2024]()
-- [Контест Positive Technologies Olimp 2024]()
+- [Контест ШБР №2 2024](https://github.com/AlexParog/ya-algorithms-and-contests/tree/main/src/main/java/org/parog/contests/contest2_SumBackSchool)
+- [Контест Positive Technologies Olimp 2024](https://github.com/AlexParog/ya-algorithms-and-contests/tree/main/src/main/java/org/parog/contests/positive_technologies)
 - [Контест Стажировки весна-лето 2024](https://github.com/AlexParog/ya-algorithms-and-contests/tree/main/src/main/java/org/parog/contests/contest_SpringSummer2024)
-- [Контест подготовки к собеседованию Яндекс]()
-- [Разобранный контест от Поступашек]()
+- [Контест подготовки к собеседованию Яндекс](https://github.com/AlexParog/ya-algorithms-and-contests/tree/main/src/main/java/org/parog/contests/free_course_job_interviews)
+- [Разобранный контест от Поступашек](https://github.com/AlexParog/ya-algorithms-and-contests/tree/main/src/main/java/org/parog/contests/contest_ya_postupashki)
