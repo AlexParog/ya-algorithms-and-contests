@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 /**
  * В. Автодополнение на минималках
+ * <p>
+ * Done
  */
 public class AutocompleteTaskB {
     public static void main(String[] args) {

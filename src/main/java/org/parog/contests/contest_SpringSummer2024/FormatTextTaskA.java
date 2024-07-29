@@ -6,6 +6,8 @@ import java.util.regex.Pattern;
 
 /**
  * А. Форматирование текста
+ * <p>
+ * Done
  */
 public class FormatTextTaskA {
     public static void main(String[] args) {
