@@ -1,2 +1,2 @@
-programming
-programming<left><left><right><delete>
+3 2
+3 1 2
