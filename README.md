@@ -19,7 +19,6 @@
 5. [Интернет-магазин - online store statistics (КРОК 2022)](https://github.com/AlexParog/ya-algorithms-and-contests/tree/main/src/main/java/org/parog/java_section/online_store_statistics17082022)
 6. [Внутренняя система сотрудников - staff and formats (КРОК 2022)](https://github.com/AlexParog/ya-algorithms-and-contests/tree/main/src/main/java/org/parog/java_section/staff_and_formats22062022)
 7. [Имитация банкомата (Яндекс 2024)](https://github.com/AlexParog/ya-algorithms-and-contests/tree/main/src/main/java/org/parog/java_section/bank_09122024)
-8. 
 ## Тренировки по алгоритмам от Яндекса
 
 ---
